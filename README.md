@@ -3,7 +3,7 @@ Alfresco integration with Cloud Foundry
 
 This project is a PoC for a Cloud Foundry Service Broker providing access to CMIS API.
 
-!(diagram)[https://github.com/OrderOfTheBee/alfresco-cloud-foundry/raw/master/diagram.png]
+![diagram](https://github.com/OrderOfTheBee/alfresco-cloud-foundry/raw/master/diagram.png)
 
 You can learn more about Pivotal Cloud Foundry product at
 https://pivotal.io/platform/pcf-tutorials/getting-started-with-pivotal-cloud-foundry-dev/introduction
