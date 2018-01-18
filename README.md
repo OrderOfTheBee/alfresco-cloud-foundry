@@ -21,7 +21,8 @@ $ cf dev start
 Create the service with the parameters
 
 ```bash
-$ cf create-user-provided-service cmis-service -p '{"url":"https://cmis.alfresco.com/alfresco/api/-default-/public/cmis/versions/1.1/browser","user":"admin","pass":"admin"}'
+$ cf create-user-provided-service cmis-service -p \
+'{"url":"https://cmis.alfresco.com/alfresco/api/-default-/public/cmis/versions/1.1/browser","user":"admin","pass":"admin"}'
 ```
 
 Compile the application
