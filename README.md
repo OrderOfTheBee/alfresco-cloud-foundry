@@ -12,6 +12,12 @@ We were using PCF Dev platform to develop the project.
 
 ## Deployment
 
+Start PCF Dev server
+
+```bash
+$ cf dev start
+```
+
 Create the service with the parameters
 
 ```bash
